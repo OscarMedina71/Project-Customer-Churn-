@@ -32,3 +32,19 @@ Three machine learning models were trained and evaluated:
 1. **XGBoost**
 2. **Random Forest**
 3. **LightGBM**
+
+Each model was evaluated using:
+
+- Accuracy
+- Precision
+- Recall
+- F1-score
+- Confusion matrix
+- Classification report
+- Cross Validation
+
+##  Results & Insights
+
+- Compared models to find the best fit for this problem.
+- Identified key features influencing customer churn.
+- Gained business insights through visual analysis.
