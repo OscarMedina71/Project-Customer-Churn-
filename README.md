@@ -6,6 +6,9 @@ The main goal is to:
 - Compare the performance of different models using various evaluation metrics.
 - Visualize insights and customer behavior patterns using **Power BI**.
 
+The first notebook includes a baseline model using standard preprocessing and classification techniques.
+A second version with SMOTE and cross-validation is currently in progress to address data imbalance and improve model generalization.
+
 ##  Dataset
 
 - Source: [Telco Customer Churn dataset on Kaggle](https://www.kaggle.com/datasets/blastchar/telco-customer-churn)
